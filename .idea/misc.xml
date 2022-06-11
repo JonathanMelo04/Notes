@@ -16,6 +16,10 @@
         <entry key="..\:/Dados/Documents/ASProjects/Notes/app/src/main/res/drawable-v24/note_item_rounded_over.xml" value="0.2203125" />
         <entry key="..\:/Dados/Documents/ASProjects/Notes/app/src/main/res/drawable-v24/rounded_search.xml" value="0.2203125" />
         <entry key="..\:/Dados/Documents/ASProjects/Notes/app/src/main/res/drawable-v24/shape_image.xml" value="0.2203125" />
+        <entry key="..\:/Dados/Documents/ASProjects/Notes/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dados/Documents/ASProjects/Notes/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.25" />
+        <entry key="..\:/Dados/Documents/ASProjects/Notes/app/src/main/res/layout/fragment_note.xml" value="0.25" />
+        <entry key="..\:/Dados/Documents/ASProjects/Notes/app/src/main/res/layout/fragment_save_and_update.xml" value="0.19010416666666666" />
       </map>
     </option>
   </component>
